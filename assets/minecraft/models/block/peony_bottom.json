@@ -1,0 +1,6 @@
+{
+    "parent": "block/bush",
+    "textures": {
+        "bush": "foliage/bushes/peony_bottom"
+    }
+}

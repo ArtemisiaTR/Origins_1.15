@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable_with_bottom",
+    "textures": {
+        "bottom": "block/smoker/smoker_bottom",
+        "top": "block/smoker/smoker_top",
+        "front": "block/smoker/smoker_front",
+        "side": "block/smoker/smoker_side"
+    }
+}

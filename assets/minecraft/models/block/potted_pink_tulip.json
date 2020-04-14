@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_pot_cross_1",
+    "textures": {
+        "cross": "foliage/flowers/pink_tulip",
+        "base": "foliage/flowers/tulip_leaves"
+    }
+}

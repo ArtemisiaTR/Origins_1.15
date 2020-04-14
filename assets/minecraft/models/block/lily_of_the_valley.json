@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_cross_1",
+    "textures": {
+        "cross": "foliage/flowers/lily_of_the_valley",
+        "base": "foliage/flowers/lily_of_the_valley_leaves"
+    }
+}

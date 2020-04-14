@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_cross_1",
+    "textures": {
+        "cross": "foliage/flowers/white_tulip",
+        "base": "foliage/flowers/tulip_leaves"
+    }
+}

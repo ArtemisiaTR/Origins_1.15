@@ -1,0 +1,7 @@
+{
+    "parent": "block/orientable_vertical",
+    "textures": {
+        "front": "block/dispenser/dispenser_front_vertical",
+        "side": "block/blast_furnace/blast_furnace_top"
+    }
+}

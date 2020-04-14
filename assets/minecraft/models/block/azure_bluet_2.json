@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_cross_3",
+    "textures": {
+        "cross": "foliage/flowers/azure_bluet",
+        "base": "foliage/flowers/azure_bluet_leaves"
+    }
+}

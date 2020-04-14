@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_cross_1",
+    "textures": {
+        "cross": "foliage/flowers/cornflower",
+        "base": "foliage/flowers/cornflower_leaves"
+    }
+}

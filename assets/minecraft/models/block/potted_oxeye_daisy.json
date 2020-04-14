@@ -1,0 +1,7 @@
+{
+    "parent": "block/flower_pot_cross_2",
+    "textures": {
+        "cross": "foliage/flowers/oxeye_daisy",
+        "base": "foliage/flowers/oxeye_daisy_leaves"
+    }
+}
