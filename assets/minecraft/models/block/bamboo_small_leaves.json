@@ -1,0 +1,40 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "foliage/bamboo/bamboo_small_leaves",
+		"sides": "foliage/bamboo/bamboo_small_leaves",
+		"top": "foliage/bamboo/bamboo_small_leaves_top"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 1, 0, 8 ],
+			"to": [ 15, 16, 8.001 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#sides", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#sides", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 8, 0, 1 ],
+			"to": [ 8.001, 16, 15 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#sides", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#sides", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ -8, 14.75, -8 ],
+			"to": [ 24, 14.751, 24 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+				"north": { "uv": [ 0, 0, 16, 0 ], "texture": "#top" },
+				"south": { "uv": [ 0, 0, 16, 0 ], "texture": "#top" },
+				"west": { "uv": [ 0, 0, 16, 0 ], "texture": "#top" },
+				"east": { "uv": [ 0, 0, 16, 0 ], "texture": "#top" }
+			}
+		}
+	]
+}

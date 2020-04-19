@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves_1",
+  "textures": {
+    "leaf": "foliage/leaves/dark_oak_leaves"
+  }
+}

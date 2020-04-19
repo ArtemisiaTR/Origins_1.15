@@ -1,0 +1,30 @@
+{
+	"textures": {
+		"particle": "foliage/bamboo/bamboo_stalk",
+		"all": "foliage/bamboo/bamboo_stalk",
+		"leaf": "foliage/bamboo/bamboo_singleleaf"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 6.5, 0, 6.5 ],
+			"to": [ 9.5, 16, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 13, 4, 16, 7 ], "texture": "#all", "cullface": "down" },
+				"up": { "uv": [ 13, 0, 16, 3 ], "texture": "#all", "cullface": "up" },
+				"north": { "uv": [ 0, 0, 3, 16 ], "texture": "#all" },
+				"south": { "uv": [ 0, 0, 3, 16 ], "texture": "#all" },
+				"west": { "uv": [ 0, 0, 3, 16 ], "texture": "#all" },
+				"east": { "uv": [ 0, 0, 3, 16 ], "texture": "#all" }
+			}
+		},
+		{
+			"from": [ 11, -1, 1.5 ],
+			"to": [ 11.001, 15, 17.5 ],
+			"rotation": { "origin": [ 11, -1, 1.5 ], "axis": "y", "angle": -22.5 },
+			"faces": {
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#leaf" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaf" }
+			}
+		}
+	]
+}

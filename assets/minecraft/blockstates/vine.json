@@ -1,0 +1,19 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": { "model": "block/vine_up" }
+        },
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/vine_side", "y": 180 }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/vine_side", "y": 270 }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/vine_side" }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/vine_side", "y": 90 }
+        }
+    ]
+}

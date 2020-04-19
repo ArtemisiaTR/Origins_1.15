@@ -1,0 +1,49 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "foliage/vine/vine",
+		"vine": "foliage/vine/vine",
+		"hang": "foliage/vine/vine_hanging"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 15.75 ],
+			"to": [ 16, 16, 15.751 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#vine", "tintindex": 0 },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#vine", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 10, 16 ],
+			"to": [ 16, 16, 16.001 ],
+			"rotation": { "origin": [ 0, 16, 16 ], "axis": "x", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 10, 16, 16 ], "texture": "#hang", "tintindex": 0 },
+				"south": { "uv": [ 16, 10, 0, 16 ], "texture": "#hang", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 5, 16 ],
+			"to": [ 16, 11, 16.001 ],
+			"rotation": { "origin": [ 0, 11, 16 ], "axis": "x", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 10, 0, 16 ], "texture": "#hang", "tintindex": 0 },
+				"south": { "uv": [ 0, 5, 16, 11 ], "texture": "#hang", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 0, 16 ],
+			"to": [ 16, 6, 16.001 ],
+			"rotation": { "origin": [ 0, 6, 16 ], "axis": "x", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 10, 16, 16 ], "texture": "#hang", "tintindex": 0 },
+				"south": { "uv": [ 16, 10, 0, 16 ], "texture": "#hang", "tintindex": 0 }
+			}
+		}
+	]
+}

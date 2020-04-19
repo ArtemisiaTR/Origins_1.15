@@ -1,4 +1,5 @@
 {
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "foliage/flowers/allium",
 		"pot": "block/flower_pot",

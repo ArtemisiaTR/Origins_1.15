@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves_1",
+  "textures": {
+    "leaf": "foliage/leaves/birch_leaves"
+  }
+}
