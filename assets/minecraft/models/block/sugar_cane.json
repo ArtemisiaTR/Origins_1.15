@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "foliage/sugar_caneh",
+		"particle": "foliage/sugar_cane",
 		"bush": "foliage/sugar_cane"
 	},
 	"elements": [ 	 
