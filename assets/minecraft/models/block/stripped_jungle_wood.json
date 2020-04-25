@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/jungle/carved_jungle_wood_top",
+        "side": "block/jungle/carved_jungle_wood"
+    }
+}

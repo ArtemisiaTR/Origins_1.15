@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/dark_oak/carved_dark_oak_wood_top",
+        "side": "block/dark_oak/carved_dark_oak_wood"
+    }
+}

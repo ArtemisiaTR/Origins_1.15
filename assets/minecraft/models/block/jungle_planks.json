@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/cube_all",
     "textures": {
-        "bottom": "block/plank/jungle_planks_bottom",
-        "top": "block/plank/jungle_planks_side",
-        "side": "block/plank/jungle_planks_side"
+        "all": "block/jungle/jungle_planks"
     }
 }

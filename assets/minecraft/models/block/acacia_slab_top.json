@@ -1,8 +1,8 @@
 {
     "parent": "block/slab_top",
     "textures": {
-        "bottom": "block/plank/acacia_planks_bottom",
-        "top": "block/plank/acacia_planks_top",
-        "side": "block/plank/acacia_planks_side"
+        "bottom": "block/acacia/acacia_planks",
+        "top": "block/acacia/acacia_planks",
+        "side": "block/acacia/acacia_planks"
     }
 }
