@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "foliage/bushes/peony_bottom"
+        "layer0": "foliage/bush/peony_bottom"
     }
 }

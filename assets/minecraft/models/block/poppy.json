@@ -1,7 +1,7 @@
 {
     "parent": "block/flower_cross_1",
     "textures": {
-        "cross": "foliage/flowers/poppy",
-        "base": "foliage/flowers/poppy_leaves"
+        "cross": "foliage/flower/poppy",
+        "base": "foliage/flower/poppy_leaves"
     }
 }

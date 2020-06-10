@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "foliage/flowers/sunflower_front",
-		"cross": "foliage/flowers/sunflower_top",
-		"back": "foliage/flowers/sunflower_back",
-		"front": "foliage/flowers/sunflower_front"
+		"particle": "foliage/flower/sunflower_front",
+		"cross": "foliage/flower/sunflower_top",
+		"back": "foliage/flower/sunflower_back",
+		"front": "foliage/flower/sunflower_front"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "foliage/flowers/oxeye_daisy"
+        "layer0": "foliage/flower/oxeye_daisy"
     }
 }

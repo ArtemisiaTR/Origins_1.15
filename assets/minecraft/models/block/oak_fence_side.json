@@ -1,0 +1,50 @@
+{
+	"textures": {
+		"particle": "block/oak/oak_fence",
+		"texture": "block/oak/oak_fence"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 6, 0, 0 ],
+			"to": [ 10, 16, 2 ],
+			"faces": {
+				"down": { "uv": [ 6, 14, 10, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 6, 0, 10, 2 ], "texture": "#texture" },
+				"north": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 2, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 14, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 7, 12, 1 ],
+			"to": [ 9, 14, 8 ],
+			"faces": {
+				"down": { "uv": [ 7, 8, 9, 15 ], "texture": "#texture" },
+				"up": { "uv": [ 7, 1, 9, 8 ], "texture": "#texture" },
+				"west": { "uv": [ 1, 2, 8, 4 ], "texture": "#texture" },
+				"east": { "uv": [ 8, 2, 15, 4 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 7, 7, 1 ],
+			"to": [ 9, 9, 8 ],
+			"faces": {
+				"down": { "uv": [ 7, 8, 9, 15 ], "texture": "#texture" },
+				"up": { "uv": [ 7, 1, 9, 8 ], "texture": "#texture" },
+				"west": { "uv": [ 1, 7, 8, 9 ], "texture": "#texture" },
+				"east": { "uv": [ 8, 7, 15, 9 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 7, 2, 1 ],
+			"to": [ 9, 4, 8 ],
+			"faces": {
+				"down": { "uv": [ 7, 8, 9, 15 ], "texture": "#texture" },
+				"up": { "uv": [ 7, 1, 9, 8 ], "texture": "#texture" },
+				"west": { "uv": [ 1, 12, 8, 14 ], "texture": "#texture" },
+				"east": { "uv": [ 8, 12, 15, 14 ], "texture": "#texture" }
+			}
+		}
+	]
+}

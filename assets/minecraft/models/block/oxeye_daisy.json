@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "foliage/flowers/oxeye_daisy",
-		"plant": "foliage/flowers/oxeye_daisy",
-		"leaf": "foliage/flowers/oxeye_daisy_leaves"
+		"particle": "foliage/flower/oxeye_daisy",
+		"plant": "foliage/flower/oxeye_daisy",
+		"leaf": "foliage/flower/oxeye_daisy_leaves"
 	},
 	"elements": [ 	 
 		{

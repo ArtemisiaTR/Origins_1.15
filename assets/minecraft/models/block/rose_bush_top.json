@@ -1,6 +1,6 @@
 {
     "parent": "block/bush",
     "textures": {
-        "bush": "foliage/bushes/rose_bush_top"
+        "bush": "foliage/bush/rose_bush_top"
     }
 }

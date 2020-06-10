@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "foliage/flowers/sunflower_bottom",
-		"cross": "foliage/flowers/sunflower_bottom"
+		"particle": "foliage/flower/sunflower_bottom",
+		"cross": "foliage/flower/sunflower_bottom"
 	},
 	"elements": [ 	 
 		{

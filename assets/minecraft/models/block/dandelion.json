@@ -1,7 +1,7 @@
 {
     "parent": "block/flower_cross_2",
     "textures": {
-        "cross": "foliage/flowers/dandelion",
-        "base": "foliage/flowers/dandelion_leaves"
+        "cross": "foliage/flower/dandelion",
+        "base": "foliage/flower/dandelion_leaves"
     }
 }

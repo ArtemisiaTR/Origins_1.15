@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "foliage/flowers/allium",
+		"particle": "foliage/flower/allium",
 		"pot": "block/flower_pot",
 		"dirt": "block/dirt",
-		"plant": "foliage/flowers/allium"
+		"plant": "foliage/flower/allium"
 	},
 	"elements": [ 	 
 		{

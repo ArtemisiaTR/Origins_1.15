@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"particle": "foliage/flowers/allium",
-		"texture": "foliage/flowers/allium"
+		"particle": "foliage/flower/allium",
+		"texture": "foliage/flower/allium"
 	},
 	"elements": [ 	 
 		{

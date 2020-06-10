@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "foliage/flowers/dandelion"
+        "layer0": "foliage/flower/dandelion"
     }
 }

@@ -1,7 +1,7 @@
 {
     "parent": "block/flower_cross_1",
     "textures": {
-        "cross": "foliage/flowers/blue_orchid",
-        "base": "foliage/flowers/blue_orchid_leaves"
+        "cross": "foliage/flower/blue_orchid",
+        "base": "foliage/flower/blue_orchid_leaves"
     }
 }

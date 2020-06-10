@@ -1,7 +1,7 @@
 {
     "parent": "block/flower_pot_cross_1",
     "textures": {
-        "cross": "foliage/flowers/wither_rose",
-        "base": "foliage/flowers/wither_rose_leaves"
+        "cross": "foliage/flower/wither_rose",
+        "base": "foliage/flower/wither_rose_leaves"
     }
 }
